@@ -2416,6 +2416,8 @@ Type objective_function<Type>::operator() ()
     REPORT( eta2_iz );
     REPORT( Phi1_ik );
     REPORT( Phi2_ik );
+    REPORT( Phi1_sk );
+    REPORT( Phi2_sk );
     REPORT( zeta1_i );
     REPORT( zeta2_i );
     REPORT( iota_ct );
